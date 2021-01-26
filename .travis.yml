@@ -23,7 +23,7 @@ matrix:
       sudo: required
       language: generic
       env:
-        - TRAVIS_OSX_PY_VER="3.6.5"
+        - TRAVIS_OSX_PY_VER="3.6.7"
 
 before_install:
   # OS and default Python info
